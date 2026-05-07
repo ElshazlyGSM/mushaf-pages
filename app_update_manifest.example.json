@@ -1,15 +1,15 @@
 {
-  "latest_version": "2.1.8",
+  "latest_version": "2.1.9",
   "title": "تحديث جديد متاح",
-  "message": "أضفنا ميزات جديدة وقمنا بتحسين الأداء وإصلاح بعض المشكلات لضمان تجربة استخدام أفضل.",
+  "message": "قمنا بتحسين الأداء وإصلاح بعض المشكلات لضمان تجربة استخدام أفضل.",
   "whats_new": [
-    "إضافة اختصارات لأيقونة التطبيق",
-    "إضافة ويدجت خارجية لمواقيت الصلاة",
+    "تسريع تحميل المصاحف الكاملة",
     "تحسينات عامة على الأداء والاستقرار"
   ],
   "force_update": false,
   "remind_later_enabled": true,
   "ignore_enabled": true,
   "remind_after_hours": 24,
-  "store_url": "https://play.google.com/store/apps/details?id=com.elshazly.noorquran.app"
+  "store_url": "https://play.google.com/store/apps/details?id=com.elshazly.noorquran.app",
+  "ios_store_url": "https://apps.apple.com/us/app/id6762288155"
 }
