@@ -6,7 +6,7 @@
     "تسريع تحميل المصاحف الكاملة",
     "تحسينات عامة على الأداء والاستقرار"
   ],
-  "force_update": false,
+  "force_update": true,
   "remind_later_enabled": true,
   "ignore_enabled": true,
   "remind_after_hours": 24,
