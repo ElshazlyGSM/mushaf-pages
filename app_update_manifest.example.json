@@ -1,19 +1,17 @@
 {
-  "latest_version": "2.2.6",
-  "title": "تحديث جديد متاح",
-  "message": "أضفنا مزايا جديدة تجعل تجربة استخدام التطبيق أكثر سهولة وفائدة، مع تحسينات في الأداء والاستقرار وإصلاح عدد من المشكلات.",
-  "whats_new": [
-    "إضافة ميزة التسبيح الذكي",
-    "إضافة شرح أحكام التجويد لكل كلمة في القرآن الكريم",
-    "تحسين البحث وتطوير دقة النتائج وسرعة الوصول إليها",
-    "تحسين الأداء العام للتطبيق",
-    "إصلاح عدد من الأخطاء البرمجية وتحسين تجربة المستخدم",
-    "إجراء تحسينات عامة على الواجهة وسهولة الاستخدام"
-  ],
-  "force_update": false,
-  "remind_later_enabled": true,
-  "ignore_enabled": true,
-  "remind_after_hours": 24,
-  "store_url": "https://play.google.com/store/apps/details?id=com.elshazly.noorquran.app",
-  "ios_store_url": "https://apps.apple.com/us/app/id6762288155"
+“latest_version”: “2.2.7”,
+“title”: “تحديث جديد متاح”,
+“message”: “أضفنا مزايا جديدة وتحسينات تجعل استخدام نور القرآن أسهل وأفضل.”,
+“whats_new”: [
+“تحسين خيارات حجم خط مصحف المدينة”,
+“إضافة حلقات جديدة إلى السيرة النبوية”,
+“إضافة سجل لمتابعة التسبيح”,
+“تحسينات عامة وإصلاحات للأخطاء”
+],
+“force_update”: false,
+“remind_later_enabled”: true,
+“ignore_enabled”: true,
+“remind_after_hours”: 24,
+“store_url”: “https://play.google.com/store/apps/details?id=com.elshazly.noorquran.app”,
+“ios_store_url”: “https://apps.apple.com/us/app/id6762288155”
 }
