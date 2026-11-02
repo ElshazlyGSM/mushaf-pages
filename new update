@@ -1,0 +1,21 @@
+{
+  "latest_version": "2.2.1",
+  "title": "تحديث جديد متاح",
+  "title_en": "New Update Available",
+  "message": "قمنا بإجراء تحسينات هامة وإصلاح بعض المشكلات.",
+  "message_en": "We made important improvements and bug fixes.",
+  "whats_new": [
+    "تحسين استقرار المصحف",
+    "تسريع التنقل بين السور"
+  ],
+  "whats_new_en": [
+    "Improved Mushaf stability",
+    "Faster navigation between Surahs"
+  ],
+  "force_update": false,
+  "remind_later_enabled": true,
+  "ignore_enabled": true,
+  "remind_after_hours": 24,
+  "store_url": "https://play.google.com/store/apps/details?id=com.elshazly.noorquran.app",
+  "ios_store_url": "https://apps.apple.com/us/app/id6762288155"
+}
