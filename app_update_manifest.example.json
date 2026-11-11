@@ -1,12 +1,23 @@
+
 {
-  "latest_version": "2.4.5",
+  "latest_version": "2.4.6",
   "title": "تحديث جديد متاح",
-  "message": "يتضمن هذا التحديث إصلاحات مهمة ومميزات جديدة لتحسين تجربة استخدام نور القرآن.",
+  "title_en": "New Update Available",
+  "message": "تحديث مليء بالمميزات الجديدة لجعل تجربتك مع نور القرآن أفضل وأسهل.",
+  "message_en": "Discover exciting new features and improvements to your Noor Al-Quran experience.",
   "whats_new": [
-    "إصلاح مشكلات مواقيت الصلاة.",
-    "إصلاح مشكلات تكرار الآيات والمقاطع الصوتية.",
-    "إضافة إمكانية العدّ غير المحدود في المسبحة الذكية.",
-    "تحسينات عامة على واجهة التطبيق وتجربة الاستخدام."
+    "إضافة الرقية الشرعية ومكتبة صوتية تضم أكثر من 300 قارئ.",
+    "تمييز الكلمات أثناء التلاوة وتخصيص ألوان المصحف.",
+    "عرض الوقت المتبقي للصلاة القادمة داخل المصحف.",
+    "تطوير محاسبة النفس وتحسين السبحة والقبلة وأقسام أخرى.",
+    "دعم عرض صفحتين على الشاشات الكبيرة."
+  ],
+  "whats_new_en": [
+    "Added Ruqyah and an audio library with over 300 reciters.",
+    "Word highlighting during recitation and customizable Mushaf colors.",
+    "Next prayer countdown directly within the Mushaf.",
+    "Enhanced self-reflection, Tasbeeh, Qibla, and more.",
+    "Two-page Mushaf layout for larger screens."
   ],
   "force_update": false,
   "remind_later_enabled": true,
@@ -15,3 +26,4 @@
   "store_url": "https://play.google.com/store/apps/details?id=com.elshazly.noorquran.app",
   "ios_store_url": "https://apps.apple.com/us/app/id6762288155"
 }
+  
